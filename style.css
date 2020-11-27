@@ -1,0 +1,108 @@
+
+
+
+#btn{
+  
+    background-color:#CAE1FF;
+    
+    
+  }
+  
+  
+  #nav{
+    
+  font-family: 'Montserrat', sans-serif
+  
+  
+  
+  }  
+   
+  
+    
+    
+    #txtp{
+      
+  font-family: 'Montserrat', sans-serif
+  
+    }
+    
+    #htxt{
+  font-family: 'Montserrat', sans-serif
+    }
+    
+    #div1{
+      
+  background-color:#EEEEE0;
+  font-family: 'Grandstander', cursive;
+      
+      
+    }
+    
+    #div2{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+  
+    
+    #div3{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:#e0eee1;
+  font-family: 'Montserrat', sans-serif;
+  color:#F8F8FF;
+  background-color:#1C1C1C;
+  
+    }
+    
+    #div4{
+      
+     margin: 10px;
+
+      
+    }
+
+    #btn2{
+        margin-top: 15px;
+        
+    }
+
+    h5{
+        align-items: center;
+        margin-top: -40px;
+        margin-right: 30px;
+    }
+
+
+    #fundo{
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      
+    }
+
+    .whatsapp-link{
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 40px;
+      right: 40px;
+      background-color: #25d366;
+      color: #fff;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 30px;
+      box-shadow: 1px 1px 2px #888;
+      z-index: 1000;
+    }
+
+    .fa-whatsapp{
+      margin-top: 15px;
+
+
+    }
